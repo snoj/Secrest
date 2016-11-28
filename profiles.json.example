@@ -1,0 +1,8 @@
+{
+  "example.com": {
+    "key": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n....\n-----END PGP PUBLIC KEY BLOCK-----\n", 
+    "mailbox": "ir4ma",
+    "hidesender": true,
+    "storage_type": "maildir"
+  }
+}

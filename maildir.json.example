@@ -1,0 +1,8 @@
+{
+  "basedir": "/var/mailstore/${ mailbox }/Maildir",
+  "custom" : {
+    "{{mailbox_id}}" : {
+      "basedir": "/home/username/Maildir"
+    }
+  }
+}
